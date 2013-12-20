@@ -17,3 +17,8 @@ List of interesting I read I consider to be good ....
 
 - [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=pd_sim_b_4)
 - [The Pragmatic Programmer: From Journeyman to Master ](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_sim_b_2)
+
+## Web
+
+- [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/High-Performance-Browser-Networking-performance-ebook/dp/B00FM0OC4S/ref=sr_1_1?ie=UTF8&qid=1387563320&sr=8-1&keywords=high+performance+browser+networking)
+- [RESTful Web APIs](http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson-ebook/dp/B00F5BS966/ref=sr_1_1?ie=UTF8&qid=1387563228&sr=8-1&keywords=rest+api)
